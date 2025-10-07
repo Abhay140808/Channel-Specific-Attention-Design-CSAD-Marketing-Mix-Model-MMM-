@@ -10,11 +10,11 @@ The project aims to build an interpretable, uncertainty-aware, and causally robu
 - Enables potential **counterfactual analysis** for strategic marketing insights.
 
 ## Features
-- 🧩 Channel-wise temporal encoding  
-- ⚙️ Learnable soft causal graph  
-- 🔁 Context gating for brand & region adaptation  
-- 🎯 Uncertainty estimation (MC Dropout)  
-- 📊 Interpretable visualization of predicted vs actual sales  
+- Channel-wise temporal encoding  
+- Learnable soft causal graph  
+- Context gating for brand & region adaptation  
+- Uncertainty estimation (MC Dropout)  
+- Interpretable visualization of predicted vs actual sales  
 
 ## Training & Evaluation
 - Trained using real multi-region weekly marketing data.
